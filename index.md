@@ -4,6 +4,20 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# Header 1 Test
+## Header 2 Test
+### Header 3 Test
+
+- Bulleted Test
+- wow
+
+1. Numbered Test
+2. wow
+
+**Big bold** _Italic_ 'Code'
+
+[silksong trailer](https://www.youtube.com/watch?v=SyyNDebPKQE) I dont have a picture to use
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
